@@ -1,5 +1,9 @@
 
 # Adidas Sales Analysis Dashboard using Tableau and SQL
+
+# 📊 View the interactive Tableau dashboard:
+[Open Dashboard](https://public.tableau.com/app/profile/akanksha.jondhale/viz/AdidasSalesAnalysis_17497079527430/Sales_Dashboard)
+
 # 📌 Overview
 This project delivers a comprehensive data-driven analysis of Adidas’s U.S. sales performance using Tableau, focusing on optimizing profitability, identifying high-performing retailers, and evaluating sales channels and product strategies. The dashboard consolidates insights to support business decisions regarding pricing, product lifecycle, and regional retail performance.
 
